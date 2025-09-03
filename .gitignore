@@ -1,0 +1,6 @@
+# Ignore generated folders and video files
+frames_5fps/
+masks/
+output/
+segmented/
+*.mp4
